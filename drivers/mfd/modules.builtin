@@ -1,0 +1,2 @@
+kernel/drivers/mfd/ltc3589-i2c.ko
+kernel/drivers/mfd/max17135-core.ko

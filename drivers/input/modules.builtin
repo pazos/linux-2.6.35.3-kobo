@@ -1,0 +1,8 @@
+kernel/drivers/input/input-core.ko
+kernel/drivers/input/input-polldev.ko
+kernel/drivers/input/evdev.ko
+kernel/drivers/input/keyboard/gpio_keys.ko
+kernel/drivers/input/keyboard/mxc_keyb.ko
+kernel/drivers/input/keyboard/mxc_pwrkey.ko
+kernel/drivers/input/touchscreen/zforce_i2c.ko
+kernel/drivers/input/touchscreen/msp430_i2c.ko

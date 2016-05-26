@@ -1,0 +1,1 @@
+cmd_drivers/regulator/built-in.o :=  arm-linux-ld -EL    -r -o drivers/regulator/built-in.o drivers/regulator/core.o drivers/regulator/fixed.o drivers/regulator/max17135-regulator.o drivers/regulator/reg-mc13892.o drivers/regulator/ltc3589-regulator.o 

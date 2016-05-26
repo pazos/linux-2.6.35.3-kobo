@@ -1,0 +1,1 @@
+cmd_drivers/mxc/pmic/mc13892/built-in.o :=  arm-linux-ld -EL    -r -o drivers/mxc/pmic/mc13892/built-in.o drivers/mxc/pmic/mc13892/pmic_adc.o drivers/mxc/pmic/mc13892/pmic_light.o drivers/mxc/pmic/mc13892/pmic_battery.o 

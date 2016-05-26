@@ -1,0 +1,1 @@
+cmd_drivers/char/imx_sim.ko := arm-linux-ld -EL -r  -T /home/george/build/trilogy/DragonNetronix/linux-2.6.35.3/scripts/module-common.lds --build-id -o drivers/char/imx_sim.ko drivers/char/imx_sim.o drivers/char/imx_sim.mod.o

@@ -1,0 +1,4 @@
+kernel/drivers/mxc/pmic/core/pmic_mc13892_mod.ko
+kernel/drivers/mxc/pmic/mc13892/pmic_adc.ko
+kernel/drivers/mxc/pmic/mc13892/pmic_light.ko
+kernel/drivers/mxc/pmic/mc13892/pmic_battery.ko

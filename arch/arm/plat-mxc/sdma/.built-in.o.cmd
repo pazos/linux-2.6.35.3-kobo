@@ -1,0 +1,1 @@
+cmd_arch/arm/plat-mxc/sdma/built-in.o :=  arm-linux-ld -EL    -r -o arch/arm/plat-mxc/sdma/built-in.o arch/arm/plat-mxc/sdma/dma_sdma.o arch/arm/plat-mxc/sdma/sdma.o arch/arm/plat-mxc/sdma/iapi/built-in.o arch/arm/plat-mxc/sdma/sdma_malloc.o 

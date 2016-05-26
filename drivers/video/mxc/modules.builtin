@@ -1,0 +1,3 @@
+kernel/drivers/video/mxc/mxc_epdc_fb.ko
+kernel/drivers/video/mxc/lk_lm75.ko
+kernel/drivers/video/mxc/lk_tps65185.ko

@@ -1,0 +1,1 @@
+cmd_drivers/staging/ath6kl/ath6kl.ko := arm-linux-ld -EL -r  -T /home/george/build/trilogy/DragonNetronix/linux-2.6.35.3/scripts/module-common.lds --build-id -o drivers/staging/ath6kl/ath6kl.ko drivers/staging/ath6kl/ath6kl.o drivers/staging/ath6kl/ath6kl.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/input/keyboard/built-in.o :=  arm-linux-ld -EL    -r -o drivers/input/keyboard/built-in.o drivers/input/keyboard/gpio_keys.o drivers/input/keyboard/mxc_keyb.o drivers/input/keyboard/mxc_pwrkey.o drivers/input/keyboard/gpiofn.o drivers/input/keyboard/tle4913_keypad.o 
