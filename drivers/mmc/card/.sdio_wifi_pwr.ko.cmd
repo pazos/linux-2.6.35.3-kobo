@@ -1,1 +1,0 @@
-cmd_drivers/mmc/card/sdio_wifi_pwr.ko := arm-linux-ld -EL -r  -T /home/george/build/trilogy/DragonNetronix/linux-2.6.35.3/scripts/module-common.lds --build-id -o drivers/mmc/card/sdio_wifi_pwr.ko drivers/mmc/card/sdio_wifi_pwr.o drivers/mmc/card/sdio_wifi_pwr.mod.o

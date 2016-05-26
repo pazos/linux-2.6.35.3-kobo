@@ -1,4 +1,0 @@
-kernel/drivers/regulator/fixed.ko
-kernel/drivers/regulator/max17135-regulator.ko
-kernel/drivers/regulator/reg-mc13892.ko
-kernel/drivers/regulator/ltc3589-regulator.ko

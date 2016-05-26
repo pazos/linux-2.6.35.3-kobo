@@ -1,1 +1,0 @@
-cmd_drivers/video/mxc/built-in.o :=  arm-linux-ld -EL    -r -o drivers/video/mxc/built-in.o drivers/video/mxc/mxc_edid.o drivers/video/mxc/mxc_epdc_fb.o drivers/video/mxc/lk_lm75.o drivers/video/mxc/lk_tps65185.o drivers/video/mxc/fake_s1d13522.o drivers/video/mxc/epdfb_dc.o 

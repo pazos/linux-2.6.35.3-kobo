@@ -1,1 +1,0 @@
-cmd_drivers/mxc/pmic/core/pmic_mc13892_mod.o := arm-linux-ld -EL    -r -o drivers/mxc/pmic/core/pmic_mc13892_mod.o drivers/mxc/pmic/core/pmic_external.o drivers/mxc/pmic/core/pmic_event.o drivers/mxc/pmic/core/pmic_common.o drivers/mxc/pmic/core/mc13892.o drivers/mxc/pmic/core/pmic_core_spi.o drivers/mxc/pmic/core/pmic_core_i2c.o 
