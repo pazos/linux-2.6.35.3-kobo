@@ -6,7 +6,9 @@ ifeq ($(CONFIG_BCM_DHD_STATIC_BUF),y)
 EXTRA_CFLAGS += -DDHD_USE_STATIC_BUF
 endif
 
-include $(objtree)/.config
+ifneq ("$(wildcard $($(objtree)/.config))","")
+    include $(objtree)/.config
+endif
 
 DFLAGS += -DSDIO_ISR_THREAD
 DFLAGS += -DDHDTHREAD
